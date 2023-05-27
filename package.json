@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000 -H :: ",
+    "build": "next build ",
+    "start": "next start -p 8080 -H ::"
+  },
+  "dependencies": {
+    "next": "canary",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.13",
+    "@types/react": "^18.0.26",
+    "typescript": "^4.9.4"
+  },
+  nod
+}
